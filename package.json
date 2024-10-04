@@ -1,6 +1,5 @@
 {
   "name": "signal",
-  "version": "0.0.1",
   "description": "Broadcast socket transmission service",
   "main": "index.js",
   "scripts": {
